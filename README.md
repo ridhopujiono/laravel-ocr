@@ -1,7 +1,10 @@
 # 🧠 OCR Pro — Ubah Gambar Menjadi Teks, Instan & Gratis!
 
 > Sebuah aplikasi web OCR modern berbasis Laravel & Tesseract OCR untuk mengekstrak teks dari gambar dengan cepat, akurat, dan mendukung multi-bahasa.
-![image](https://github.com/user-attachments/assets/3e58b01f-350c-4d87-89b2-a4e055f8b500)
+
+
+https://github.com/user-attachments/assets/c1c2de9c-1774-4c69-a161-3a4be74124c5
+
 
 ---
 
