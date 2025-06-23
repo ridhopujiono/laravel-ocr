@@ -1,0 +1,4 @@
+# nixpacks.toml
+
+[phases.setup]
+aptPkgs = ["tesseract-ocr", "tesseract-ocr-ind", "tesseract-ocr-eng"]
